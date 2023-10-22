@@ -3,7 +3,9 @@ import React from "react";
 export const Header = () => {
   return (
     <div>
-      <header>Trello</header>
+      <header>
+        <h1>Simple Trello</h1>
+      </header>
     </div>
   );
 };
