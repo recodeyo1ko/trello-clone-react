@@ -1,5 +1,5 @@
 services:
-  trello-clone:
+  front:
     build:
       context: .
       dockerfile: Dockerfile
